@@ -1,10 +1,10 @@
 ## 概要
 
-※ 現段階ではbackendになります。(この後拡張予定です)
+※ 現段階ではbackendになります。(この後、拡張予定です)
 
 ## 確認
 【手順】
-- git clone 
+- git clone git@github.com:endomiyap/ec-site-app.git
 
 [backend]
 - cd ../backend
